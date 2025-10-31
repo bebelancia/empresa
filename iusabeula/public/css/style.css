@@ -1,0 +1,12 @@
+ .topo {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+            position: top;
+}
+
+body {
+   background-image: url('../../thumb-1920-1358524.png');
+}
